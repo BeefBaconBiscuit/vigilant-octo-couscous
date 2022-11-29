@@ -1,0 +1,20 @@
+# Updated 11/29/22 6:41 AM by Minecraft 1.5.2
+# victim name | ban date | banned by | banned until | reason
+
+pepsi_man|2022-11-14 14:11:42 +0000|(Unknown)|Forever|Banned by an operator.
+missing|2022-11-16 17:35:01 +0000|(Unknown)|Forever|Banned by an operator.
+goodman|2022-11-18 22:08:43 +0000|(Unknown)|Forever|Banned by an operator.
+goodmanlol|2022-11-18 22:09:17 +0000|(Unknown)|Forever|Banned by an operator.
+mr_crem|2022-11-18 22:15:45 +0000|(Unknown)|Forever|Banned by an operator.
+penis|2022-11-18 22:16:40 +0000|(Unknown)|Forever|Banned by an operator.
+angel|2022-11-18 22:18:08 +0000|(Unknown)|Forever|Banned by an operator.
+bofa|2022-11-18 22:20:53 +0000|(Unknown)|Forever|Banned by an operator.
+mr_boidaboi|2022-11-18 22:22:03 +0000|(Unknown)|Forever|Banned by an operator.
+giant|2022-11-18 22:22:16 +0000|(Unknown)|Forever|Banned by an operator.
+bofa_2|2022-11-18 22:49:01 +0000|(Unknown)|Forever|Banned by an operator.
+lol|2022-11-18 22:49:07 +0000|(Unknown)|Forever|Banned by an operator.
+lokl|2022-11-18 22:50:07 +0000|(Unknown)|Forever|Banned by an operator.
+joe_is_gay____|2022-11-18 22:50:17 +0000|(Unknown)|Forever|Banned by an operator.
+olololo|2022-11-18 22:50:35 +0000|(Unknown)|Forever|Banned by an operator.
+joe_is_nigga_10x|2022-11-18 22:50:56 +0000|(Unknown)|Forever|Banned by an operator.
+joe_eats_assssss|2022-11-18 22:51:39 +0000|(Unknown)|Forever|Banned by an operator.
